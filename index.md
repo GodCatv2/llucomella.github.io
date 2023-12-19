@@ -1,6 +1,6 @@
 # **Lluc Omella**
 
-<img src="https://github.com/GodCatv2/lluc.github.io/blob/main/lluc-foto-github.png">
+<img src="https://raw.githubusercontent.com/GodCatv2/lluc.github.io/main/lluc-foto-github.png">
 
 ## Información de Contacto
 - Nombre: Lluc Omella
